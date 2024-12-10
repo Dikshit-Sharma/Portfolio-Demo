@@ -1,0 +1,54 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "Mastering HTML, CSS, and JavaScript, I create seamless user interfaces. Utilizing React, I ensure optimal performance and dynamic interactions, continually refining my skills to deliver user-centric solutions."
+      },
+      {
+        "id": "2",
+        "src": "./img/feather-pen-2.png",
+        "title": "UI & UX Design",
+        "description": "Skilled in UI & UX design, merging creativity with user-centric principles. Crafting intuitive interfaces, prioritizing seamless navigation and visual appeal. Proficient in Adobe XD and Figma for engaging user experiences."
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-1.png",
+        "title": "C++",
+        "description": "Proficient in C++, applying creative problem-solving in software development. Crafting efficient algorithms and robust code, prioritizing performance and scalability. Skilled in debugging and optimization."
+      },
+      {
+        "id": "4",
+        "src": "./img/tag-1.png",
+        "title": "Python",
+        "description": "In the realm of Python, I'm delving into the intricacies of coding, discovering ways to craft efficient algorithms and build reliable software solutions. I'm enhancing my skills to develop high-performance applications."
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/placeholder-image-0-0.png",
+        "title": "Chat Hub",
+        "description": "A chatting web application that connects students of JUIT together. Developed in react and firebase.",
+        "link": "View In Github",
+        "link_add":"https://github.com/Dikshit-Sharma/chat-app"
+      },
+      {
+        "id": "2",
+        "src": "./img/OS_Project.png",
+        "title": "Memory Allocation and CPU Scheduling",
+        "description": "A simple interactive website designed to help users calculate memory allocation and CPU scheduling algorithms.",
+        "link": "View In Github",
+        "link_add": "https://github.com/Dikshit-Sharma/CPU-Scheduling-Memory-Allocation"
+      },
+      {
+        "id": "",
+        "src": "./img/Portfolio.png",
+        "title": "Portfolio",
+        "description": "A react website build to showcase my profile and skills",
+        "link": "View In Github",
+        "link_add": ""
+      }
+    ]
+  }
